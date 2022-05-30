@@ -1,6 +1,6 @@
 # The Missing Validation Middleware
 
-This tiny repository is an example of how to use the cuyz/valinor PHP library.
+This tiny repository is an example of how to use the [cuyz/valinor](https://github.com/CuyZ/valinor/) PHP library.
 
 It's goal is not to show all the possibilities but to show the code behavior. It's
 a companion repository for my talk: [The Missing Validator Middleware](https://public.chstudio.fr/talks/the-missing-validation-middleware/en.html).
